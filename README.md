@@ -1,2 +1,2 @@
-# CCIR'25-evaluation-of-explanation
-Online Appendix for the CCIR'25 submission "On Usefulness, Fidelity, and Generalizability of Post-hoc Explanation for Food Recommendation"
+# evaluation-of-explanation
+Online Appendix for the paper "On Usefulness, Fidelity, and Generalizability of Post-hoc Explanation for Food Recommendation". In this Appendix, we illustrate the details of the implementation of different explanation ranking policies and the desgin of user studies
